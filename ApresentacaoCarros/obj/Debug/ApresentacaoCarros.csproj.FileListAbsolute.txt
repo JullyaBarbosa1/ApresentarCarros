@@ -1,0 +1,11 @@
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\bin\Debug\ApresentacaoCarros.exe.config
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\bin\Debug\ApresentacaoCarros.exe
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\bin\Debug\ApresentacaoCarros.pdb
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.csproj.AssemblyReference.cache
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.csproj.SuggestedBindingRedirects.cache
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.Form1.resources
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.Properties.Resources.resources
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.csproj.GenerateResource.cache
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.csproj.CoreCompileInputs.cache
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.exe
+C:\Users\35191\source\repos\ApresentacaoCarros\ApresentacaoCarros\obj\Debug\ApresentacaoCarros.pdb
